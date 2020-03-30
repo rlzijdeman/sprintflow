@@ -17,5 +17,5 @@
 - request money for HISGIS location points 1940
 
 # BASH
--- info CLARIAH WP4 data-
+- ~~info CLARIAH WP4 data~~
 - info QUEST
