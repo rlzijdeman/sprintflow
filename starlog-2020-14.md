@@ -2,6 +2,7 @@
 - report hours
 - evaluate team hours
 
+
 ## ANDB
 - create LD for location points
 - https://trello.com/c/5X6Mh4el/6-linkded-data-maken-van-locaktiepunten-en-coordinaten
@@ -21,3 +22,4 @@
 # BASH
 - ~~info CLARIAH WP4 data~~
 - ~~info QUEST~~
+- ~~report hours week 13 + approve~~
