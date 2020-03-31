@@ -6,7 +6,7 @@
 ## ANDB
 - create LD for location points
 - https://trello.com/c/5X6Mh4el/6-linkded-data-maken-van-locaktiepunten-en-coordinaten
-
+- https://trello.com/b/gi08fpF1/main#
 
 ## CLARIAH
 - setup final report and invite input/feedback
